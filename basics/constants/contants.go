@@ -14,6 +14,6 @@ func main() {
 		THURSDAY  = 4
 	)
 
-	name := "John Doe"
+	// name := "John Doe"
 
 }
